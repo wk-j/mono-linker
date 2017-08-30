@@ -1,0 +1,6 @@
+Dist
+bin
+obj
+.DS_Store
+tools
+packages
